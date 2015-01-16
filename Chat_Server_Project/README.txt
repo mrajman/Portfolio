@@ -1,0 +1,1 @@
+These are two parts of a chat server project completed in Spring of 2014 for Programming Languages  class while attending University at Buffalo. One written in Erlang, the other in Java. These were group assignments, and were created in collaboration with Stephan DeSouza.
